@@ -1,0 +1,11 @@
+Demonstrator Relation
+
+  Dem. ID          Dem.           Mod. Id           Mod.                 Pref.      Hours
+DataStart
+012548/2,John Smith,004FGH/7,Information Systems,1,10
+015848/1,Mark George,002GTH/6,Internet Security,0,15
+018949/1,Victor Wonder,005WEH/6,Database Management,0.7,25
+012548/2,John Smith,005WEH/6,Database Management,0.6,10
+015848/1,Mark George,004FGH/7,Information Systems,1,15
+015848/1,Mark George,005WEH/6,Database Management,0.4,25
+DataEnd

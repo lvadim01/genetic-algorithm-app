@@ -1,0 +1,13 @@
+ Module Rlation
+ Mod.Id      Module           Time    Dem. Required Duration
+DataStart
+42324,InformationSystems,Monday6pm,5,1
+13242,InternetSecurity,Tuesday6pm,1,2
+76890,DatabaseManagement,Friday6pm,2,2
+98927,InformationSystems,Monday1pm,5,1
+65367,InternetSecurity,Wednesday1pm,1,3
+78628,DatabaseManagement,Friday1pm,2,1
+DataEnd
+
+
+
